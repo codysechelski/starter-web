@@ -20,4 +20,4 @@ Please fork this repository and then issue Puul Requests for review.
 
 ### Copyright
 
-2018 Cody Sechelski
+2018 Cody Sechelski. All Rights Reserved.
